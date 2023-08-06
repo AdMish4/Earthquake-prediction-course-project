@@ -8,8 +8,7 @@ Geological survey (USGS), which consisted of 7,97,046 data points and 22 columns
 Dataset available on: https://www.kaggle.com/datasets/gustavobmgm/earthquakes-for-ml-prediction
 
 # Methods
-LINEAR REGRESSION
-POLYNOMIAL REGRESSION
+LINEAR REGRESSIOM  POLYNOMIAL REGRESSION
 SUPPORT VECTOR REGRESSION
 RANDOM FOREST REGRESSOR
 RANDOM FOREST TIME SERIES MODEL (RFTS)
